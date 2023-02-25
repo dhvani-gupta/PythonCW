@@ -1,3 +1,2 @@
 # Python
-LAB
-Python Libraries and their usage
+Some Python Libraries and their usage
